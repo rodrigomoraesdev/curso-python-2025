@@ -1,0 +1,10 @@
+#%%
+print('Era uma vez..')
+input()
+print('um software..')
+input()
+print('que se chamava Python..')
+input()
+print('e que contava histórias..')
+input()
+print('de pessoas que aprendiam a programar..')
